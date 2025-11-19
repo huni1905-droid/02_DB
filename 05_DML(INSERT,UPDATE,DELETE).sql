@@ -77,7 +77,7 @@ LEFT JOIN DEPARTMENT2 ON (DEPT_CODE = DEPT_ID)-- 위에서 만든 서브쿼리�
 SELECT * FROM EMP_01;
 
 --------------------------------------------------------------------
-
+SELECT * FROM EMPLOYEE;
 -- 2. UPDATE (내용을 바꾸거나 추가해서 최신화)
 -- 테이블에 기록된 컬럼값을 수정하는 구문
 

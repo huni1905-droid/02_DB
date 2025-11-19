@@ -47,7 +47,7 @@
 -- (SYS 계정 접속)
 
 -- VIEW 생성 권한 부여(SYS -> kh_kjh 계정으로)
--- 메뉴바 오라클 마크와 kh_kjh 클릭 수 sys계정에서 아래 GRANT 수행
+-- 메뉴바의 오라클 마크에 붙어있는 kh_kjh 클릭 후 sys계정에서 아래 GRANT 수행
 GRANT CREATE VIEW TO kh_kjh;
 
 
